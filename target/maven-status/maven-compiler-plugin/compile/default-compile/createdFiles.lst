@@ -1,0 +1,8 @@
+model\thenewsdb\ErrorResponse.class
+model\NewsInfo.class
+model\thenewsdb\Article.class
+model\thenewsdb\NewsResult.class
+model\thenewsdb\Source.class
+model\NewsAPI.class
+services\NewsAPIService.class
+exception\NewsAPIException.class
